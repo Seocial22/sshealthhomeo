@@ -7,7 +7,7 @@
   <meta name="description" content="Experience natural and holistic healing with SS Health Homeo. We offer homeopathic solutions inspired by nature to support better health, wellness, and long-lasting healing."/>
   <title>SS Health Homeo — Pure Nature, Real Healing</title>
   <link rel="canonical" href="https://sshealthhomeo.com/" />
-  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="icon" href="favicon.webp" type="image/png">
   <link
     href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Nunito:wght@300;400;500;600;700&display=swap"
     rel="stylesheet" />
@@ -2733,7 +2733,7 @@
       <div class="pm-left">
         <div class="pm-left-bg"></div>
         <div class="pm-left-img-wrap">
-          <img src="Stamina.png" id="modalProductImg" alt="Selected Product">
+          <img src="Stamina.webp" id="modalProductImg" alt="Selected Product">
         </div>
         <div class="pm-left-info">
           <div class="pm-left-tag" id="modalProductSubtitle">Vitality Formula</div>
@@ -2809,7 +2809,7 @@
         <form id="paymentStep" style="display: none; width: 100%; text-align: center;">
           <div
             style="display:flex; justify-content:center; margin: 15px auto; padding:15px; background:#fff; border-radius:12px; border: 1.5px solid var(--border); width: 180px; height: 180px;">
-            <img src="qrcode.png" alt="UPI QR Code" style="width: 100%; height: 100%; object-fit: contain;">
+            <img src="qrcode.webp" alt="UPI QR Code" style="width: 100%; height: 100%; object-fit: contain;">
           </div>
           <p style="font-size: 0.85rem; margin-bottom: 20px; color: var(--textmute); font-weight: 600;">Scan with any
             UPI app (GPay, PhonePe, Paytm)</p>
@@ -2911,7 +2911,7 @@
   <!-- NAV -->
   <nav id="nav">
     <a class="nav-logo" href="#hero">
-      <img src="full_logo.png" alt="SS Health Homeo" class="nav-logo-img" onerror="this.style.display='none'">
+      <img src="full_logo.webp" alt="SS Health Homeo" class="nav-logo-img" onerror="this.style.display='none'">
       <span class="nav-logo-text">SS Health <em>Homeo</em></span>
     </a>
     <button class="nav-hamburger" id="navHamburger" aria-label="Menu"><span></span><span></span><span></span></button>
@@ -2944,7 +2944,7 @@
     <div class="hero-inner">
       <div class="hero-eyebrow">Natural Healing by Dr Neeraj Arora</div>
       <div class="hero-logo-wrap">
-        <img src="full_logo.png" alt="SS Health Homeo" class="hero-logo-img" onerror="this.style.display='none'">
+        <img src="full_logo.webp" alt="SS Health Homeo" class="hero-logo-img" onerror="this.style.display='none'">
       </div>
       <h1 class="hero-h1">
         <span class="line-top"><span class="line1">SS Health</span> <span class="line2">Homeo</span></span>
@@ -2972,7 +2972,7 @@
           <div class="sr sr2" style="--spd:19s"></div>
           <div class="sr sr3" style="--spd:13s"></div>
           <div class="organ-glow stamina-glow"></div>
-          <div class="organ-img-wrap"><img src="Stamina.png" alt="Stamina Boost"
+          <div class="organ-img-wrap"><img src="Stamina.webp" alt="Stamina Boost"
               style="width:160px;height:190px;filter:drop-shadow(0 10px 28px rgba(58,125,68,0.34));"
               onerror="this.style.display='none'" /></div>
           <div class="prob-chips">
@@ -3082,9 +3082,9 @@
           <div class="sr sr2" style="--spd:16s"></div>
           <div class="sr sr3" style="--spd:11s"></div>
           <div class="organ-glow heart-glow"></div>
-          <div class="organ-img-wrap"><img src="Heart.png" alt="Human Heart"
+          <div class="organ-img-wrap"><img src="Heart.webp" alt="Human Heart"
               style="filter:drop-shadow(0 10px 28px rgba(74,144,217,0.34))"
-              onerror="this.src='https://cdn-icons-png.flaticon.com/512/833/833472.png'" /></div>
+              onerror="this.src='https://cdn-icons-png.flaticon.com/512/833/833472.webp'" /></div>
           <div class="prob-chips">
             <div class="chip heart-chip" style="top:4%;left:0%;--cd:3.2s;--cdl:0s;"><span class="chip-dot"></span>
               <div class="chip-text"><strong>Hypertension</strong><span>High BP</span></div>
@@ -3115,9 +3115,9 @@
           <div class="sr sr2" style="--spd:18s"></div>
           <div class="sr sr3" style="--spd:12s"></div>
           <div class="organ-glow liver-glow"></div>
-          <div class="organ-img-wrap"><img src="Liver.png" alt="Human Liver"
+          <div class="organ-img-wrap"><img src="Liver.webp" alt="Human Liver"
               style="filter:drop-shadow(0 10px 28px rgba(192,57,43,0.3))"
-              onerror="this.src='https://cdn-icons-png.flaticon.com/512/2491/2491651.png'" /></div>
+              onerror="this.src='https://cdn-icons-png.flaticon.com/512/2491/2491651.webp'" /></div>
           <div class="prob-chips">
             <div class="chip liver-chip" style="top:4%;left:0%;--cd:3s;--cdl:0s;"><span class="chip-dot"></span>
               <div class="chip-text"><strong>Fatty Liver</strong><span>Fat accumulation</span></div>
@@ -3185,7 +3185,7 @@
       <div class="ov-cards">
         <div class="ov-card c-stamina" id="ovc1">
           <div class="ov-card-glow gcl-stamina"></div>
-          <img src="Stamina.png" alt="SS Stamina Boost" class="ov-drop-img" onerror="this.style.opacity='.3'">
+          <img src="Stamina.webp" alt="SS Stamina Boost" class="ov-drop-img" onerror="this.style.opacity='.3'">
           <div class="ov-card-name">SS Stamina Boost</div>
           <div class="ov-card-sub">Vitality Formula</div>
           <div class="ov-divider div-stamina"></div>
@@ -3203,8 +3203,8 @@
         </div>
         <div class="ov-card c-heart" id="ovc2">
           <div class="ov-card-glow gcl-heart"></div>
-          <img src="Heart.png" alt="SS Heart Drops" class="ov-drop-img"
-            onerror="this.src='https://cdn-icons-png.flaticon.com/512/833/833472.png'">
+          <img src="Heart.webp" alt="SS Heart Drops" class="ov-drop-img"
+            onerror="this.src='https://cdn-icons-png.flaticon.com/512/833/833472.webp'">
           <div class="ov-card-name">SS Heart Drops</div>
           <div class="ov-card-sub">Cardiac Support</div>
           <div class="ov-divider div-heart"></div>
@@ -3222,8 +3222,8 @@
         </div>
         <div class="ov-card c-liver" id="ovc3">
           <div class="ov-card-glow gcl-liver"></div>
-          <img src="Liver.png" alt="SS Liver Drops" class="ov-drop-img"
-            onerror="this.src='https://cdn-icons-png.flaticon.com/512/2491/2491651.png'">
+          <img src="Liver.webp" alt="SS Liver Drops" class="ov-drop-img"
+            onerror="this.src='https://cdn-icons-png.flaticon.com/512/2491/2491651.webp'">
           <div class="ov-card-name">SS Liver Drops</div>
           <div class="ov-card-sub">Hepatic Wellness</div>
           <div class="ov-divider div-liver"></div>
@@ -3248,7 +3248,7 @@
     <div class="footer-top">
       <div class="ft-brand">
         <div class="ft-brand-logo-wrap">
-          <img src="logo.png" alt="SS Health Homeo" class="ft-brand-logo" onerror="this.style.display='none'">
+          <img src="logo.webp" alt="SS Health Homeo" class="ft-brand-logo" onerror="this.style.display='none'">
           <div class="ft-brand-name">Dr Neeraj Arora's <em>SS Homeo</em></div>
         </div>
         <p class="ft-brand-desc">Bringing the ancient wisdom of Herbal - Natural Homeo into your daily life — crafted
@@ -3280,21 +3280,21 @@
       </div>
       <div>
         <div class="ft-col-title">Our Products</div>
-        <div class="ft-product-item"><img src="Stamina.png" class="ft-prod-drop" alt=""
+        <div class="ft-product-item"><img src="Stamina.webp" class="ft-prod-drop" alt=""
             onerror="this.style.display='none'">
           <div>
             <div class="ft-prod-name">SS Stamina Boost</div>
             <div class="ft-prod-tag">Vitality Formula</div>
           </div>
         </div>
-        <div class="ft-product-item"><img src="Heart.png" class="ft-prod-drop" alt=""
+        <div class="ft-product-item"><img src="Heart.webp" class="ft-prod-drop" alt=""
             onerror="this.style.display='none'">
           <div>
             <div class="ft-prod-name">SS Heart Drops</div>
             <div class="ft-prod-tag">Cardiac Support</div>
           </div>
         </div>
-        <div class="ft-product-item"><img src="Liver.png" class="ft-prod-drop" alt=""
+        <div class="ft-product-item"><img src="Liver.webp" class="ft-prod-drop" alt=""
             onerror="this.style.display='none'">
           <div>
             <div class="ft-prod-name">SS Liver Drops</div>
@@ -3381,14 +3381,14 @@
     const qrCodeContainer = document.getElementById('qrCodeContainer');
 
     const pmeta = {
-      'SS Stamina Boost Drops': { img: 'Stamina.png', sub: 'Vitality & Energy Formula', price: '899' },
-      'SS Heart Drops': { img: 'Heart.png', sub: 'Cardiac Support Formula', price: '899' },
-      'SS Liver Drops': { img: 'Liver.png', sub: 'Hepatic Wellness Formula', price: '899' },
-      'SS Stamina Boost': { img: 'Stamina.png', sub: 'Vitality & Energy Formula', price: '899' }
+      'SS Stamina Boost Drops': { img: 'Stamina.webp', sub: 'Vitality & Energy Formula', price: '899' },
+      'SS Heart Drops': { img: 'Heart.webp', sub: 'Cardiac Support Formula', price: '899' },
+      'SS Liver Drops': { img: 'Liver.webp', sub: 'Hepatic Wellness Formula', price: '899' },
+      'SS Stamina Boost': { img: 'Stamina.webp', sub: 'Vitality & Energy Formula', price: '899' }
     };
 
     function openPurchaseModal(productName) {
-      const meta = pmeta[productName] || { img: 'logo.png', sub: 'Homeopathic Wellness', price: '899' };
+      const meta = pmeta[productName] || { img: 'logo.webp', sub: 'Homeopathic Wellness', price: '899' };
       document.getElementById('orderProduct').value = productName;
       document.getElementById('orderProduct').setAttribute('data-price', meta.price);
       document.getElementById('modalProductName').innerText = productName;
