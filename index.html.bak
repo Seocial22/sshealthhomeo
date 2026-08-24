@@ -4,281 +4,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="google-site-verification" content="gc2tQ8EN1uOuQkORjWTbalIkhj065F6u77xcNXTLK6M" />
-  <meta name="google-site-verification" content="nnGDQXSBbNFNMku1SkGb3N6v0CFW58DjHNE7jqhcBcY" />
-  <meta name="keywords" content="homeopathy medicine, homeopathy medicine online, online homeopathy medicine, order homeopathic medicine online, online homeopathic medicine delivery, homeopathic pharmacy online, homeopathy online store, homeopathy for diabetes, homeopathy for heart, homeopathy for liver, homeopathy near me, sex stamina booster, best homeopathic medicine for sex, fatty liver homeopathy, aspidosperma buy online, lycopodium clavatum uses, agnus castus 200 benefits, agnus castus 200 benefits for male, agnus castus 200 uses, damiana, delayed ejaculation, performance anxiety, मर्दाना ताकत बढ़ाने की दवा, यौन शक्ति बढ़ाने की दवा, इरेक्शन बढ़ाने की दवा, ग्रेड 1 फैटी लिवर, ग्रेड 2 फैटी लिवर">
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://sshealthhomeo.com/#organization",
-      "name": "SS Health Homeo",
-      "url": "https://sshealthhomeo.com",
-      "logo": "https://sshealthhomeo.com/logo.png",
-      "description": "SS Health Homeo is an online homeopathic medicine store offering natural remedies for diabetes, liver care, heart health, stamina and overall wellness.",
-      "sameAs": [
-        "https://www.facebook.com/sshealthhomeo",
-        "https://www.instagram.com/sshealthhomeo",
-        "https://www.youtube.com/@sshealthhomeo"
-      ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-9251254499",
-        "contactType": "customer support",
-        "areaServed": "IN",
-        "availableLanguage": [
-          "English",
-          "Hindi"
-        ]
-      }
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://sshealthhomeo.com/#website",
-      "url": "https://sshealthhomeo.com",
-      "name": "SS Health Homeo",
-      "description": "Buy genuine homeopathic medicines online in India.",
-      "publisher": {
-        "@id": "https://sshealthhomeo.com/#organization"
-      },
-      "inLanguage": "en-IN"
-    },
-    {
-      "@type": "OnlineStore",
-      "@id": "https://sshealthhomeo.com/#store",
-      "name": "SS Health Homeo",
-      "url": "https://sshealthhomeo.com",
-      "image": "https://sshealthhomeo.com/logo.png",
-      "description": "Online homeopathic medicine store providing natural healthcare products.",
-      "currenciesAccepted": "INR",
-      "paymentAccepted": [
-        "Cash on Delivery",
-        "UPI",
-        "Credit Card",
-        "Debit Card",
-        "Net Banking"
-      ],
-      "priceRange": "₹₹",
-      "areaServed": {
-        "@type": "Country",
-        "name": "India"
-      }
-    }
-  ]
-}
-</script>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-
-  "@id": "https://sshealthhomeo.com/#mens-stamina-boost",
-
-  "name": "SS Mens Stamina Boost",
-
-  "description": "Ginseng-powered homeopathic formula designed to support stamina, energy, vitality, performance and overall men's wellness.",
-
-  "image": [
-    "https://sshealthhomeo.com/Stamina.png"
-  ],
-
-  "category": "Homeopathic Medicine",
-
-  "brand": {
-    "@type": "Brand",
-    "name": "SS Health Homeo"
-  },
-
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "SS Health Homeo"
-  },
-
-  "offers": {
-    "@type": "Offer",
-    "url": "https://sshealthhomeo.com/#sec-stamina",
-    "priceCurrency": "INR",
-    "price": "899",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
-  },
-
-  "keywords": [
-    "Increase Stamina",
-    "Erectile Dysfunction Medicine",
-    "Sexual Debility",
-    "Boost Performance",
-    "Homeopathic Medicine",
-    "Maintain Testosterone"
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-
-  "@id": "https://sshealthhomeo.com/#heart-health",
-
-  "name": "SS Heart Health",
-
-  "description": "Pure homeopathic cardiac formula designed to support healthy heart function, regulate heart rhythm, maintain blood pressure and promote cardiovascular wellness.",
-
-  "image": [
-    "https://sshealthhomeo.com/Heart.png"
-  ],
-
-  "category": "Homeopathic Medicine",
-
-  "brand": {
-    "@type": "Brand",
-    "name": "SS Health Homeo"
-  },
-
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "SS Health Homeo"
-  },
-
-  "sku": "SS-HEART-001",
-
-  "keywords": [
-    "Heart Health",
-    "Cardiac Care",
-    "Blood Pressure",
-    "High BP",
-    "Cholesterol",
-    "Palpitations",
-    "Homeopathic Medicine"
-  ],
-
-  "offers": {
-    "@type": "Offer",
-    "url": "https://sshealthhomeo.com/#sec-heart",
-    "priceCurrency": "INR",
-    "price": "899",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition",
-    "seller": {
-      "@type": "Organization",
-      "name": "SS Health Homeo"
-    }
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-
-  "@id": "https://sshealthhomeo.com/#liver-health",
-
-  "name": "SS Liver Health",
-
-  "description": "Advanced homeopathic formula designed to support liver detoxification, bile regulation, digestive health and overall liver wellness.",
-
-  "image": [
-    "https://sshealthhomeo.com/Liver.png"
-  ],
-
-  "category": "Homeopathic Medicine",
-
-  "brand": {
-    "@type": "Brand",
-    "name": "SS Health Homeo"
-  },
-
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "SS Health Homeo"
-  },
-
-  "offers": {
-    "@type": "Offer",
-    "url": "https://sshealthhomeo.com/#sec-liver",
-    "priceCurrency": "INR",
-    "price": "899",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
-  },
-
-  "keywords": [
-    "Fatty Liver Disease",
-    "Jaundice",
-    "Liver Inflammation",
-    "Digestive Issues",
-    "Toxin Accumulation",
-    "Homeopathic Medicine"
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-
-  "@id": "https://sshealthhomeo.com/#diabetes-health",
-
-  "name": "SS Diabetes Health",
-
-  "description": "Homeopathic formulation designed to support healthy blood sugar management, insulin support, digestion, circulation and overall wellness.",
-
-  "image": [
-    "https://sshealthhomeo.com/diabetes.png"
-  ],
-
-  "category": "Homeopathic Medicine",
-
-  "brand": {
-    "@type": "Brand",
-    "name": "SS Health Homeo"
-  },
-
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "SS Health Homeo"
-  },
-
-  "offers": {
-    "@type": "Offer",
-    "url": "https://sshealthhomeo.com/#sec-diabilities",
-    "priceCurrency": "INR",
-    "price": "899",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
-  },
-
-  "keywords": [
-    "Diabetes Health",
-    "Blood Sugar Support",
-    "Supports Insulin Generation",
-    "Improves Digestion",
-    "Regulate Natural Balance",
-    "Homeopathic Medicine"
-  ]
-}
-</script>
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q77DE368EZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q77DE368EZ');
-</script>
-
-
-  <title>SS Health Homeo — Pure Nature. Real Healing.</title>
+  <meta name="description" content="Experience natural and holistic healing with SS Health Homeo. We offer homeopathic solutions inspired by nature to support better health, wellness, and long-lasting healing."/>
+  <title>SS Health Homeo — Pure Nature, Real Healing</title>
+  <link rel="canonical" href="https://sshealthhomeo.com/" />
+  <link rel="icon" href="favicon.png" type="image/png">
   <link
     href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Nunito:wght@300;400;500;600;700&display=swap"
     rel="stylesheet" />
@@ -577,7 +306,7 @@
       }
 
       50% {
-        transorm: translate(-50%, -50%) rotate(180deg) scale(1.05);
+        transform: translate(-50%, -50%) rotate(180deg) scale(1.05);
       }
 
       100% {
@@ -850,20 +579,6 @@
       text-decoration: none;
     }
 
-    .hp-diabities {
-      background: var(--greenpale);
-      color: var(--green);
-      border: 1.5px solid rgba(58, 125, 68, 0.2);
-    }
-
-    .hp-diabities:hover {
-      background: var(--green);
-      color: #fff;
-      transform: translateY(-3px);
-      box-shadow: 0 8px 24px rgba(58, 125, 68, 0.28);
-    }
-
-
     .hp-liver {
       background: var(--redpale);
       color: var(--red);
@@ -948,10 +663,6 @@
       overflow: hidden;
     }
 
-    #sec-diabities {
-      background: radial-gradient(ellipse 55% 65% at 20% 50%, rgba(58, 125, 68, 0.08) 0%, transparent 60%), linear-gradient(145deg, #f8fdf9 0%, #eef8f0 50%, #e4f5e7 100%);
-    }
-
     #sec-liver {
       background: radial-gradient(ellipse 55% 65% at 20% 50%, rgba(192, 57, 43, 0.06) 0%, transparent 60%), linear-gradient(145deg, #ffffff 0%, #fdf9f9 50%, #fceeed 100%);
     }
@@ -1029,10 +740,6 @@
       height: 188px;
     }
 
-    .diabities-sr .sr {
-      border-color: rgba(58, 125, 68, 0.17);
-    }
-
     .liver-sr .sr {
       border-color: rgba(192, 57, 43, 0.15);
     }
@@ -1080,10 +787,6 @@
         opacity: .34;
         transform: translate(-50%, -50%) scale(1.1);
       }
-    }
-
-    .diabities-glow {
-      background: radial-gradient(circle, rgba(58, 125, 68, 0.45) 20%, transparent 70%);
     }
 
     .liver-glow {
@@ -1169,16 +872,6 @@
       flex-shrink: 0;
     }
 
-    .diabities-chip {
-      background: rgba(255, 255, 255, 0.94);
-      border: 1.5px solid rgba(58, 125, 68, 0.26);
-      color: var(--green);
-    }
-
-    .diabities-chip .chip-dot {
-      background: var(--green);
-    }
-
     .liver-chip {
       background: rgba(255, 255, 255, 0.94);
       border: 1.5px solid rgba(192, 57, 43, 0.22);
@@ -1249,12 +942,6 @@
       margin-bottom: 18px;
     }
 
-    .diabities-tag {
-      background: var(--greenpale);
-      border: 1.5px solid rgba(58, 125, 68, 0.22);
-      color: var(--green);
-    }
-
     .liver-tag {
       background: var(--redpale);
       border: 1.5px solid rgba(192, 57, 43, 0.18);
@@ -1280,10 +967,6 @@
       line-height: 1;
       margin-bottom: 6px;
       color: var(--navy);
-    }
-
-    .ps-name .accent-diabities {
-      color: var(--green);
     }
 
     .ps-name .accent-liver {
@@ -1335,10 +1018,6 @@
       flex-shrink: 0;
     }
 
-    .pi-diabities {
-      background: var(--green);
-    }
-
     .pi-liver {
       background: var(--red);
     }
@@ -1356,11 +1035,6 @@
       border-radius: 16px;
       margin-bottom: 22px;
       box-shadow: 0 6px 28px var(--shadow);
-    }
-
-    .bs-diabities {
-      background: linear-gradient(135deg, rgba(58, 125, 68, 0.07), rgba(58, 125, 68, 0.01));
-      border: 1.5px solid rgba(58, 125, 68, 0.17);
     }
 
     .bs-liver {
@@ -1406,12 +1080,6 @@
       letter-spacing: .7px;
       text-transform: uppercase;
       font-weight: 700;
-    }
-
-    .sp-diabities {
-      background: var(--greenpale);
-      color: var(--green);
-      border: 1px solid rgba(58, 125, 68, 0.22);
     }
 
     .sp-liver {
@@ -1502,18 +1170,15 @@
       font-weight: 800;
       line-height: 1;
     }
-
     .prod-price-tag .ppt-currency {
       font-size: .85rem;
       font-weight: 700;
       opacity: .8;
     }
-
     .prod-price-tag .ppt-amount {
       font-size: 1.7rem;
       letter-spacing: -1px;
     }
-
     .prod-price-tag .ppt-label {
       font-size: .65rem;
       font-weight: 600;
@@ -1522,7 +1187,6 @@
       text-transform: uppercase;
       margin-left: 4px;
     }
-
     .ps-price-row {
       display: flex;
       align-items: center;
@@ -1530,13 +1194,11 @@
       margin-bottom: 10px;
       flex-wrap: wrap;
     }
-
     .ps-price-wrap {
       display: flex;
       flex-direction: column;
       gap: 2px;
     }
-
     /* Overview card price */
     .ov-price {
       display: flex;
@@ -1548,30 +1210,11 @@
       font-weight: 800;
       line-height: 1;
       padding: 10px 0 8px;
-      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      border-top: 1px solid rgba(255,255,255,0.1);
     }
-
-    .ov-price .op-cur {
-      font-size: 1rem;
-      opacity: .85;
-      color: inherit;
-    }
-
-    .ov-price .op-amt {
-      font-size: 2rem;
-      letter-spacing: -1.5px;
-      color: inherit;
-    }
-
-    .ov-price .op-lbl {
-      font-size: .62rem;
-      opacity: .65;
-      text-transform: uppercase;
-      letter-spacing: .5px;
-      margin-left: 4px;
-      color: inherit;
-      font-weight: 600;
-    }
+    .ov-price .op-cur { font-size: 1rem; opacity: .85; color: inherit; }
+    .ov-price .op-amt { font-size: 2rem; letter-spacing: -1.5px; color: inherit; }
+    .ov-price .op-lbl { font-size: .62rem; opacity: .65; text-transform: uppercase; letter-spacing: .5px; margin-left: 4px; color: inherit; font-weight: 600; }
 
     .next-prod-btn {
       display: inline-flex;
@@ -1587,18 +1230,6 @@
       transition: all .3s;
       background: var(--white);
       box-shadow: 0 4px 14px var(--shadow);
-    }
-
-
-    .npb-diabities {
-      border: 1.5px solid rgba(58, 125, 68, 0.28);
-      color: var(--green);
-    }
-
-    .npb-diabities:hover {
-      background: var(--green);
-      color: #fff;
-      transform: translateX(4px);
     }
 
     .npb-liver {
@@ -1729,10 +1360,6 @@
       opacity: .2;
     }
 
-    .gcl-diabities {
-      background: #3a7d44;
-    }
-
     .gcl-liver {
       background: #e74c3c;
     }
@@ -1800,10 +1427,6 @@
       margin: 0 auto 18px;
     }
 
-    .div-diabities {
-      background: rgba(58, 125, 68, 0.65);
-    }
-
     .div-liver {
       background: rgba(231, 76, 60, 0.65);
     }
@@ -1837,10 +1460,6 @@
       height: 5px;
       border-radius: 50%;
       flex-shrink: 0;
-    }
-
-    .c-diabities .ov-card-feats li::before {
-      background: #3a7d44;
     }
 
     .c-liver .ov-card-feats li::before {
@@ -3165,8 +2784,8 @@
           <div class="form-group">
             <label for="userAddress">Delivery Address</label>
             <div class="form-field-wrap">
-              <textarea id="userAddress" class="form-input" placeholder="Enter full delivery address with pincode"
-                required></textarea>
+              <textarea id="userAddress" class="form-input"
+                placeholder="Enter full delivery address with pincode" required></textarea>
               <div class="form-icon" style="top:22px">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                   stroke-linecap="round" stroke-linejoin="round">
@@ -3298,10 +2917,9 @@
     <button class="nav-hamburger" id="navHamburger" aria-label="Menu"><span></span><span></span><span></span></button>
     <div class="nav-links">
       <a href="#hero">Home</a>
-      <a href="#sec-stamina">Mens Stamina Boost</a>
-      <a href="#sec-heart">Heart Health</a>
-      <a href="#sec-liver">Liver Health</a>
-      <a href="#sec-diabities">Diabetes Health</a>
+      <a href="#sec-stamina">Stamina Boost</a>
+      <a href="#sec-heart">Heart Drops</a>
+      <a href="#sec-liver">Liver Drops</a>
       <a href="#sec-overview">Products</a>
       <a href="#footer" class="cta" onclick="openContactModal('call');return false;">Contact Us</a>
     </div>
@@ -3310,10 +2928,9 @@
   <!-- MOBILE DRAWER -->
   <div class="nav-drawer" id="navDrawer">
     <a href="#hero">Home</a>
-    <a href="#sec-stamina">Mens Stamina Boost</a>
-    <a href="#sec-heart">Heart Health</a>
-    <a href="#sec-liver">Liver Health</a>
-    <a href="#sec-diabities">Diabetes Health</a>
+    <a href="#sec-stamina">Stamina Boost</a>
+    <a href="#sec-heart">Heart Drops</a>
+    <a href="#sec-liver">Liver Drops</a>
     <a href="#sec-overview">Products</a>
     <a href="#footer" class="cta" onclick="openContactModal('call');return false;">Contact Us</a>
   </div>
@@ -3333,12 +2950,11 @@
         <span class="line-top"><span class="line1">SS Health</span> <span class="line2">Homeo</span></span>
         <span class="line3">Pure Nature. Real Healing.</span>
       </h1>
-
+      <p class="hero-tagline">Three Drops. Three Miracles.</p>
       <div class="hero-pills">
-        <a href="#sec-stamina" class="hero-pill hp-stamina">Mens Stamina Boost</a>
-        <a href="#sec-heart" class="hero-pill hp-heart">Heart Health</a>
-        <a href="#sec-liver" class="hero-pill hp-liver">Liver Health</a>
-        <a href="#sec-diabities" class="hero-pill hp-diabities">Diabetes Health</a>
+        <a href="#sec-stamina" class="hero-pill hp-stamina">Stamina Boost</a>
+        <a href="#sec-heart" class="hero-pill hp-heart">Heart Drops</a>
+        <a href="#sec-liver" class="hero-pill hp-liver">Liver Drops</a>
       </div>
       <div class="hero-scroll-hint">
         <div class="scroll-line"></div><span>Scroll to explore</span>
@@ -3356,7 +2972,7 @@
           <div class="sr sr2" style="--spd:19s"></div>
           <div class="sr sr3" style="--spd:13s"></div>
           <div class="organ-glow stamina-glow"></div>
-          <div class="organ-img-wrap"><img src="Stamina.png" alt="Mens Stamina Boost"
+          <div class="organ-img-wrap"><img src="Stamina.png" alt="Stamina Boost"
               style="width:160px;height:190px;filter:drop-shadow(0 10px 28px rgba(58,125,68,0.34));"
               onerror="this.style.display='none'" /></div>
           <div class="prob-chips">
@@ -3379,7 +2995,7 @@
       </div>
       <div class="ps-info" id="st-info">
         <div class="ps-tag stamina-tag">Vitality and Stamina Formula</div>
-        <h2 class="ps-name">SS <span class="accent-stamina">Mens Stamina</span><br>Boost</h2>
+        <h2 class="ps-name">SS <span class="accent-stamina">Stamina</span><br>Boost Drops</h2>
         <p class="ps-sub">Energize · Endure · Excel</p>
         <div class="probs-grid">
           <div class="prob-item"><span class="pi-dot pi-stamina"></span>Increase Stamina</div>
@@ -3391,8 +3007,8 @@
         </div>
         <div class="bottle-showcase bs-stamina">
           <div class="showcase-info">
-            <h3>SS Stamina Boost</h3>
-            <p>Ginseng-powered homeopathic formula for unstoppable energy, sharp mental focus and peak physical
+            <h3>SS Stamina Boost Drops</h3>
+            <p>Ginseng-powered homeopathic drops for unstoppable energy, sharp mental focus and peak physical
               performance.</p>
             <div class="showcase-pills">
               <span class="spill sp-stamina">Ginseng Based</span>
@@ -3403,7 +3019,7 @@
         </div>
 
         <div class="ps-btns">
-          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Mens Stamina Boost')">
+          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Stamina Boost Drops')">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
               stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0">
               <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
@@ -3412,7 +3028,7 @@
             </svg>
             Purchase Now
           </button>
-          <a href="#sec-heart" class="next-prod-btn npb-stamina">Next: Heart Health &rarr;</a>
+          <a href="#sec-heart" class="next-prod-btn npb-stamina">Next: Heart Drops &rarr;</a>
         </div>
       </div>
     </div>
@@ -3420,11 +3036,11 @@
 
   <!-- HEART -->
   <section class="prod-sec" id="sec-heart">
-    <span class="sec-edge">SS Heart Health — 02</span>
+    <span class="sec-edge">SS Heart Drops — 02</span>
     <div class="ps-layout flip">
       <div class="ps-info flip-pad" id="he-info">
         <div class="ps-tag heart-tag">Cardiac Support Formula</div>
-        <h2 class="ps-name">SS <span class="accent-heart">Heart</span><br>Health</h2>
+        <h2 class="ps-name">SS <span class="accent-heart">Heart</span><br>Drops</h2>
         <p class="ps-sub">Strengthen · Balance · Protect</p>
         <div class="probs-grid">
           <div class="prob-item"><span class="pi-dot pi-heart"></span>High Blood Pressure</div>
@@ -3436,7 +3052,7 @@
         </div>
         <div class="bottle-showcase bs-heart">
           <div class="showcase-info">
-            <h3>SS Heart Health</h3>
+            <h3>SS Heart Drops</h3>
             <p>Pure homeopathic cardiac formula to regulate heart rhythm, lower blood pressure and strengthen your heart
               naturally.</p>
             <div class="showcase-pills">
@@ -3448,7 +3064,7 @@
         </div>
 
         <div class="ps-btns">
-          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Heart Health')">
+          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Heart Drops')">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
               stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0">
               <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
@@ -3457,7 +3073,7 @@
             </svg>
             Purchase Now
           </button>
-          <a href="#sec-liver" class="next-prod-btn npb-heart">Next: Liver Health &rarr;</a>
+          <a href="#sec-liver" class="next-prod-btn npb-heart">Next: Liver Drops &rarr;</a>
         </div>
       </div>
       <div class="ps-organ">
@@ -3491,7 +3107,7 @@
 
   <!-- LIVER -->
   <section class="prod-sec" id="sec-liver">
-    <span class="sec-edge">SS Liver Health — 03</span>
+    <span class="sec-edge">SS Liver Drops — 03</span>
     <div class="ps-layout">
       <div class="ps-organ">
         <div class="organ-stage liver-sr">
@@ -3520,7 +3136,7 @@
       </div>
       <div class="ps-info" id="li-info">
         <div class="ps-tag liver-tag">Liver Care Formula</div>
-        <h2 class="ps-name">SS <span class="accent-liver">Liver</span><br>Health</h2>
+        <h2 class="ps-name">SS <span class="accent-liver">Liver</span><br>Drops</h2>
         <p class="ps-sub">Detox · Restore · Protect</p>
         <div class="probs-grid">
           <div class="prob-item"><span class="pi-dot pi-liver"></span>Fatty Liver Disease</div>
@@ -3532,7 +3148,7 @@
         </div>
         <div class="bottle-showcase bs-liver">
           <div class="showcase-info">
-            <h3>SS Liver Health</h3>
+            <h3>SS Liver Drops</h3>
             <p>Advanced homeopathic formula with natural herbs for complete liver detox, bile regulation and hepatic
               wellness.</p>
             <div class="showcase-pills">
@@ -3544,7 +3160,7 @@
         </div>
 
         <div class="ps-btns">
-          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Liver Health')">
+          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Liver Drops')">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
               stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0">
               <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
@@ -3553,92 +3169,18 @@
             </svg>
             Purchase Now
           </button>
-          <a href="#sec-diabities" class="next-prod-btn npb-stamina">Next: SS Diabetes Health &rarr;</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Diabities -->
-  <section class="prod-sec" id="sec-diabities">
-    <span class="sec-edge">SS Diabetes Health — 04</span>
-    <div class="ps-layout">
-      <div class="ps-organ">
-        <div class="organ-stage stamina-sr">
-          <div class="sr sr1" style="--spd:28s"></div>
-          <div class="sr sr2" style="--spd:19s"></div>
-          <div class="sr sr3" style="--spd:13s"></div>
-          <div class="organ-glow stamina-glow"></div>
-          <div class="organ-img-wrap"><img src="diabetes.png" alt="SS Diabetes Health"
-              style="width:160px;height:190px;filter:drop-shadow(0 10px 28px rgba(58,125,68,0.34));"
-              onerror="this.style.display='none'" /></div>
-          <div class="prob-chips">
-            <div class="chip stamina-chip" style="top:4%;left:0%;--cd:3s;--cdl:0s;"><span class="chip-dot"></span>
-              <div class="chip-text"><strong>Naturally Supports</strong><span>Blood Sugar</span></div>
-            </div>
-            <div class="chip stamina-chip" style="top:20%;right:-4%;--cd:4s;--cdl:.5s;"><span class="chip-dot"></span>
-              <div class="chip-text"><strong>Health Management</strong><span>Balance Lifestyle</span></div>
-            </div>
-            <div class="chip stamina-chip" style="bottom:26%;left:-4%;--cd:3.5s;--cdl:1s;"><span
-                class="chip-dot"></span>
-              <div class="chip-text"><strong>Support Nerves</strong><span>Lower the Risk</span></div>
-            </div>
-            <div class="chip stamina-chip" style="bottom:8%;right:0%;--cd:4.5s;--cdl:1.5s;"><span
-                class="chip-dot"></span>
-              <div class="chip-text"><strong>Regulate Circulation</strong><span>Good Blood Flow</span></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="ps-info" id="st-info">
-        <div class="ps-tag stamina-tag">Supports Overall Wellness</div>
-        <h2 class="ps-name">SS <span class="accent-stamina">Diabetes</span><br>Health</h2>
-        <p class="ps-sub">Balance · Health · Energy</p>
-        <div class="probs-grid">
-          <div class="prob-item"><span class="pi-dot pi-stamina"></span>Supports Insulin Generation</div>
-          <div class="prob-item"><span class="pi-dot pi-stamina"></span>Improves Digestion</div>
-          <div class="prob-item"><span class="pi-dot pi-stamina"></span>Regulate Natural Balance</div>
-          <div class="prob-item"><span class="pi-dot pi-stamina"></span>Supports Healthy Lifestyle</div>
-        </div>
-        <div class="bottle-showcase bs-stamina">
-          <div class="showcase-info">
-            <h3>SS Diabetes Health</h3>
-            <p>SS Diabetes Health Homeo Care is a homeopathic formulation designed to support overall wellness and a
-              healthy lifestyle.
-              Crafted with homeopathic priciples, it is intended to complement daily health management and help maintain
-              the body's natural balance.</p>
-            <div class="showcase-pills">
-              <span class="spill sp-stamina">Homeopathic Formulation</span>
-              <span class="spill sp-gold">Balanced Lifestyle</span>
-              <span class="spill sp-navy">Complement Daily Health</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="ps-btns">
-          <button class="buy-btn buy-btn-active" onclick="openPurchaseModal('SS Diabetes Health')">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
-              stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0">
-              <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
-              <path d="M3 6h18"></path>
-              <path d="M16 10a4 4 0 0 1-8 0"></path>
-            </svg>
-            Purchase Now
-          </button>
-
           <a href="#sec-overview" class="next-prod-btn npb-liver">See All Products &darr;</a>
         </div>
       </div>
     </div>
   </section>
 
-
   <!-- OVERVIEW -->
   <section id="sec-overview">
     <div style="width:100%;max-width:1200px;">
       <div class="ov-header rev">
         <p class="ov-eyebrow">Complete Wellness Range</p>
-        <h2 class="ov-title">Our <span>Homeopathic</span> Formula</h2>
+        <h2 class="ov-title">Our <span>Homeopathic</span> Drops</h2>
       </div>
       <div class="ov-cards">
         <div class="ov-card c-stamina" id="ovc1">
@@ -3661,9 +3203,9 @@
         </div>
         <div class="ov-card c-heart" id="ovc2">
           <div class="ov-card-glow gcl-heart"></div>
-          <img src="Heart.png" alt="SS Heart Health" class="ov-drop-img"
+          <img src="Heart.png" alt="SS Heart Drops" class="ov-drop-img"
             onerror="this.src='https://cdn-icons-png.flaticon.com/512/833/833472.png'">
-          <div class="ov-card-name">SS Heart Health</div>
+          <div class="ov-card-name">SS Heart Drops</div>
           <div class="ov-card-sub">Cardiac Support</div>
           <div class="ov-divider div-heart"></div>
           <ul class="ov-card-feats">
@@ -3676,13 +3218,13 @@
             <span class="op-cur">₹</span><span class="op-amt">899</span><span class="op-lbl">/ bottle</span>
           </div>
           <button class="ov-cs-badge buy-btn-active" style="border:none;cursor:pointer;width:100%"
-            onclick="openPurchaseModal('SS Heart Health')">Order Now</button>
+            onclick="openPurchaseModal('SS Heart Drops')">Order Now</button>
         </div>
         <div class="ov-card c-liver" id="ovc3">
           <div class="ov-card-glow gcl-liver"></div>
-          <img src="Liver.png" alt="SS Liver Health" class="ov-drop-img"
+          <img src="Liver.png" alt="SS Liver Drops" class="ov-drop-img"
             onerror="this.src='https://cdn-icons-png.flaticon.com/512/2491/2491651.png'">
-          <div class="ov-card-name">SS Liver Health</div>
+          <div class="ov-card-name">SS Liver Drops</div>
           <div class="ov-card-sub">Hepatic Wellness</div>
           <div class="ov-divider div-liver"></div>
           <ul class="ov-card-feats">
@@ -3695,28 +3237,8 @@
             <span class="op-cur">₹</span><span class="op-amt">899</span><span class="op-lbl">/ bottle</span>
           </div>
           <button class="ov-cs-badge buy-btn-active" style="border:none;cursor:pointer;width:100%"
-            onclick="openPurchaseModal('SS Liver Health')">Order Now</button>
+            onclick="openPurchaseModal('SS Liver Drops')">Order Now</button>
         </div>
-
-        <div class="ov-card c-stamina" id="ovc1">
-          <div class="ov-card-glow gcl-stamina"></div>
-          <img src="diabetes.png" alt="SS Diabetes Health" class="ov-drop-img" onerror="this.style.opacity='.3'">
-          <div class="ov-card-name">SS Diabetes Health</div>
-          <div class="ov-card-sub">Healthy Lifestyle</div>
-          <div class="ov-divider div-stamina"></div>
-          <ul class="ov-card-feats">
-            <li>Supports Healthy Lifestyle</li>
-            <li>Improves Digestion</li>
-            <li>Regulate Natural Balance</li>
-
-          </ul>
-          <div class="ov-price" style="color:#6dce7a">
-            <span class="op-cur">₹</span><span class="op-amt">899</span><span class="op-lbl">/ bottle</span>
-          </div>
-          <button class="ov-cs-badge buy-btn-active" style="border:none;cursor:pointer;width:100%"
-            onclick="openPurchaseModal('SS Diabetes Health')">Order Now</button>
-        </div>
-
       </div>
     </div>
   </section>
@@ -3768,22 +3290,15 @@
         <div class="ft-product-item"><img src="Heart.png" class="ft-prod-drop" alt=""
             onerror="this.style.display='none'">
           <div>
-            <div class="ft-prod-name">SS Heart Health</div>
+            <div class="ft-prod-name">SS Heart Drops</div>
             <div class="ft-prod-tag">Cardiac Support</div>
           </div>
         </div>
         <div class="ft-product-item"><img src="Liver.png" class="ft-prod-drop" alt=""
             onerror="this.style.display='none'">
           <div>
-            <div class="ft-prod-name">SS Liver Health</div>
+            <div class="ft-prod-name">SS Liver Drops</div>
             <div class="ft-prod-tag">Hepatic Wellness</div>
-          </div>
-        </div>
-        <div class="ft-product-item"><img src="diabetes.png" class="ft-prod-drop" alt=""
-            onerror="this.style.display='none'">
-          <div>
-            <div class="ft-prod-name">SS Diabetes Health</div>
-            <div class="ft-prod-tag">Homeopathic Formulation</div>
           </div>
         </div>
       </div>
@@ -3791,10 +3306,9 @@
         <div class="ft-col-title">Quick Links</div>
         <ul class="ft-links">
           <li><a href="#hero">Home</a></li>
-          <li><a href="#sec-stamina">Mens Stamina Boost</a></li>
-          <li><a href="#sec-heart">Heart Health</a></li>
-          <li><a href="#sec-liver">Liver Health</a></li>
-          <li><a href="#sec-diabities">Diabetes Health</a></li>
+          <li><a href="#sec-stamina">Stamina Boost</a></li>
+          <li><a href="#sec-heart">Heart Drops</a></li>
+          <li><a href="#sec-liver">Liver Drops</a></li>
           <li><a href="#sec-overview">All Products</a></li>
         </ul>
       </div>
@@ -3826,7 +3340,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <div class="fb-copy">&copy; 2025-2026 SS Health Homeo. All rights reserved.</div>
+      <div class="fb-copy">&copy; 2025 SS Health Homeo. All rights reserved.</div>
       <div class="fb-disclaimer">Homeopathic products are not intended to diagnose, treat, cure or prevent any disease.
         Consult a qualified practitioner before use.</div>
       <div class="fb-right">Made with care in India</div>
@@ -3867,10 +3381,10 @@
     const qrCodeContainer = document.getElementById('qrCodeContainer');
 
     const pmeta = {
-      'SS Mens Stamina Boost': { img: 'Stamina.png', sub: 'Vitality & Energy Formula', price: '899' },
-      'SS Heart Health': { img: 'Heart.png', sub: 'Cardiac Support Formula', price: '899' },
-      'SS Liver Health': { img: 'Liver.png', sub: 'Hepatic Wellness Formula', price: '899' },
-      'SS Diabetes Health': { img: 'diabetes.png', sub: 'Regulates Healthy Lifestyle', price: '899' }
+      'SS Stamina Boost Drops': { img: 'Stamina.png', sub: 'Vitality & Energy Formula', price: '899' },
+      'SS Heart Drops': { img: 'Heart.png', sub: 'Cardiac Support Formula', price: '899' },
+      'SS Liver Drops': { img: 'Liver.png', sub: 'Hepatic Wellness Formula', price: '899' },
+      'SS Stamina Boost': { img: 'Stamina.png', sub: 'Vitality & Energy Formula', price: '899' }
     };
 
     function openPurchaseModal(productName) {
